@@ -1,0 +1,1 @@
+Hi I'm Christopher a beginner web designer with a focus on creating clean, static web pages. I enjoy working with HTML and CSS to build responsive layouts and simple, user-friendly designs. I also have a small but growing foundation in JavaScript for adding interactivity.
